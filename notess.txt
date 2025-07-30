@@ -1,3 +1,6 @@
 first note
+<<<<<<< HEAD
 Second note
 Third note
+=======
+>>>>>>> parent of adbaf86 (Add second note)
